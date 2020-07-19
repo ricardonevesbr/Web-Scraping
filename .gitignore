@@ -127,3 +127,7 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+# others
+lxml/tarefa
+lxml/desafio1

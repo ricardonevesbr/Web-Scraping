@@ -1,0 +1,5 @@
+Errata:
+Na aula, por um erro de digitação, na linha a seguir, ficou faltando o "g" em a.tag::text, ficando assim:
+'tags': citacao.css('div.tags a.ta::text').extract,
+Mas no slide já foi corrigido, está assim:
+'tags': citacao.css('div.tags a.tag::text').extract,

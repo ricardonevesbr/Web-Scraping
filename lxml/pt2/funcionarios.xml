@@ -1,0 +1,14 @@
+<?xml version = "1.0"?>
+<funcionarios>
+   <funcionario departamento = "TI">
+      <nome>Evaldo Wolkers</nome>Texto após a tag nome
+      <celular>(11)11111-11111</celular>
+      <email>evaldowolkers@gmail.com</email>
+   </funcionario>
+   
+   <funcionario departamento = "ADM">
+      <nome>Cleo Wolkers</nome>
+      <celular>(11)11111-11112</celular>
+      <email>cleowolkers@gmail.com</email>
+   </funcionario>
+</funcionarios>
